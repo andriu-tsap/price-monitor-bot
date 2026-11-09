@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12,<5
+playwright==1.51.0
+python-dotenv>=1,<2
+pytest>=8,<9
